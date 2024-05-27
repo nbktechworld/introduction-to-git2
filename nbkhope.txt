@@ -1,0 +1,1 @@
+I am interested in learning Git and GitHub. I also like JavaScript. I am also considering TypeScript.
